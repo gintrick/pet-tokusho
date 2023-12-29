@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pet-tokusho/static/css/main.e6c13ad2.css",
+    "main.js": "/pet-tokusho/static/js/main.603e7675.js",
+    "static/js/787.17591883.chunk.js": "/pet-tokusho/static/js/787.17591883.chunk.js",
+    "index.html": "/pet-tokusho/index.html",
+    "main.e6c13ad2.css.map": "/pet-tokusho/static/css/main.e6c13ad2.css.map",
+    "main.603e7675.js.map": "/pet-tokusho/static/js/main.603e7675.js.map",
+    "787.17591883.chunk.js.map": "/pet-tokusho/static/js/787.17591883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.603e7675.js"
+  ]
+}
