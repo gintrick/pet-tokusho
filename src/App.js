@@ -40,8 +40,16 @@ const App = () => {
             </td>
           </tr>
           <tr>
-            <td style={styles.cell}>住所</td>
+            <td style={styles.cell}>運営責任者</td>
             <td style={styles.cell}>代表取締役 米原宏郎</td>
+          </tr>
+          <tr>
+            <td style={styles.cell}>住所</td>
+            <td style={styles.cell}>
+              〒150-0001
+              <br />
+              東京都渋谷区神宮前六丁目２３番４号 桑野ビル２階
+            </td>
           </tr>
           <tr>
             <td style={styles.cell}>お問い合わせ先</td>
